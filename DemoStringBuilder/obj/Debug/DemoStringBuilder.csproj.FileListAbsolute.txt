@@ -1,0 +1,9 @@
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\bin\Debug\DemoStringBuilder.exe.config
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\bin\Debug\DemoStringBuilder.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\bin\Debug\DemoStringBuilder.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\obj\Debug\DemoStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\obj\Debug\DemoStringBuilder.Form1.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\obj\Debug\DemoStringBuilder.Properties.Resources.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\obj\Debug\DemoStringBuilder.csproj.GenerateResource.Cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\obj\Debug\DemoStringBuilder.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoStringBuilder\obj\Debug\DemoStringBuilder.pdb

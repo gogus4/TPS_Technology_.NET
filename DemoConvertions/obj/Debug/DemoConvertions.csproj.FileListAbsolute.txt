@@ -1,0 +1,9 @@
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\bin\Debug\DemoConvertions.exe.config
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\bin\Debug\DemoConvertions.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\bin\Debug\DemoConvertions.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\obj\Debug\DemoConvertions.csprojResolveAssemblyReference.cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\obj\Debug\DemoConvertions.Form1.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\obj\Debug\DemoConvertions.Properties.Resources.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\obj\Debug\DemoConvertions.csproj.GenerateResource.Cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\obj\Debug\DemoConvertions.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoConvertions\obj\Debug\DemoConvertions.pdb

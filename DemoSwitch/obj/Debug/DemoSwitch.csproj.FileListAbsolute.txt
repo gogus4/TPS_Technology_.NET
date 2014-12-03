@@ -1,0 +1,6 @@
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoSwitch\bin\Debug\DemoSwitch.exe.config
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoSwitch\bin\Debug\DemoSwitch.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoSwitch\bin\Debug\DemoSwitch.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoSwitch\obj\Debug\DemoSwitch.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoSwitch\obj\Debug\DemoSwitch.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoSwitch\obj\Debug\DemoSwitch.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+﻿Taille = 12
+Couleur = Rouge
+dd = 14
+
+ageducapitaine = 42

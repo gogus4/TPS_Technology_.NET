@@ -1,0 +1,9 @@
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\bin\Debug\DemoRegExp.exe.config
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\bin\Debug\DemoRegExp.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\bin\Debug\DemoRegExp.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\obj\Debug\DemoRegExp.csprojResolveAssemblyReference.cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\obj\Debug\DemoRegExp.Form1.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\obj\Debug\DemoRegExp.Properties.Resources.resources
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\obj\Debug\DemoRegExp.csproj.GenerateResource.Cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\obj\Debug\DemoRegExp.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\DemoRegExp\obj\Debug\DemoRegExp.pdb

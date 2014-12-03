@@ -1,0 +1,6 @@
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\Radio\bin\Debug\Radio.exe.config
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\Radio\bin\Debug\Radio.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\Radio\bin\Debug\Radio.pdb
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\Radio\obj\Debug\Radio.csprojResolveAssemblyReference.cache
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\Radio\obj\Debug\Radio.exe
+C:\Users\Diego\SkyDrive\Documents\ESGI_5\Technologie .NET\Travail\TPAL2\Tps\Radio\obj\Debug\Radio.pdb
