@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Data>
+    <Nom>toto 0</Nom>
+    <Numero>0</Numero>
+    <Carre>0</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 1</Nom>
+    <Numero>1</Numero>
+    <Carre>1</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 2</Nom>
+    <Numero>2</Numero>
+    <Carre>4</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 3</Nom>
+    <Numero>47</Numero>
+    <Carre>2209</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 4</Nom>
+    <Numero>4</Numero>
+    <Carre>16</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 6</Nom>
+    <Numero>6</Numero>
+    <Carre>36</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 7</Nom>
+    <Numero>7</Numero>
+    <Carre>49</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 8</Nom>
+    <Numero>8</Numero>
+    <Carre>64</Carre>
+  </Data>
+  <Data>
+    <Nom>toto 9</Nom>
+    <Numero>9</Numero>
+    <Carre>81</Carre>
+  </Data>
+  <Data>
+    <Nom>Dupont</Nom>
+    <Numero>10</Numero>
+    <Carre>100</Carre>
+  </Data>
+</NewDataSet>

@@ -1,0 +1,7 @@
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\bin\Debug\Calculatrice.dll
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\bin\Debug\Interfaces.dll
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\bin\Debug\Interfaces.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\obj\Debug\Calculatrice.dll
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Calculatrice\obj\Debug\Calculatrice.pdb

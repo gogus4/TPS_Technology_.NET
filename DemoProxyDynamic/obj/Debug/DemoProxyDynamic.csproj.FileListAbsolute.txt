@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\bin\Debug\DemoProxyDynamic.exe.config
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\bin\Debug\DemoProxyDynamic.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\bin\Debug\DemoProxyDynamic.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\obj\Debug\DemoProxyDynamic.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\obj\Debug\DemoProxyDynamic.Form1.resources
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\obj\Debug\DemoProxyDynamic.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\obj\Debug\DemoProxyDynamic.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\obj\Debug\DemoProxyDynamic.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoProxyDynamic\obj\Debug\DemoProxyDynamic.pdb

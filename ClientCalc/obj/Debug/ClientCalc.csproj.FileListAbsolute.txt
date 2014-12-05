@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\bin\Debug\ClientCalc.exe.config
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\bin\Debug\ClientCalc.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\bin\Debug\ClientCalc.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\bin\Debug\Interfaces.dll
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\bin\Debug\Interfaces.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\obj\Debug\ClientCalc.Form1.resources
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\obj\Debug\ClientCalc.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\obj\Debug\ClientCalc.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\obj\Debug\ClientCalc.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\ClientCalc\obj\Debug\ClientCalc.pdb

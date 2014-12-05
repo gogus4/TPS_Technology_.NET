@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfChose xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chose Name="Martin" Id="71" />
+  <Chose Name="Dupond" Id="61" />
+  <Chose Name="Martin" Id="71" />
+  <Chose Name="Nicolas" Id="81" />
+</ArrayOfChose>

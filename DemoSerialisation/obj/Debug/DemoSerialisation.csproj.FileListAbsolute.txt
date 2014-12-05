@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\bin\Debug\DemoSerialisation.exe.config
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\bin\Debug\DemoSerialisation.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\bin\Debug\DemoSerialisation.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\obj\Debug\DemoSerialisation.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\obj\Debug\DemoSerialisation.Form1.resources
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\obj\Debug\DemoSerialisation.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\obj\Debug\DemoSerialisation.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\obj\Debug\DemoSerialisation.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\DemoSerialisation\obj\Debug\DemoSerialisation.pdb

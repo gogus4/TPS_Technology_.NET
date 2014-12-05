@@ -1,0 +1,10 @@
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Serveur.exe.config
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Serveur.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Serveur.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Calculatrice.dll
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Interfaces.dll
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Calculatrice.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\bin\Debug\Interfaces.pdb
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\obj\Debug\Serveur.exe
+C:\Users\Diego\Documents\GitHub\TPS_Technology_.NET\Serveur\obj\Debug\Serveur.pdb
